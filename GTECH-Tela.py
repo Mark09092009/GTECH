@@ -1,3 +1,8 @@
+# Marcos Vinicius de Sousa
+# luiz Gustavo
+# Pedro Lucas
+# Gabriel
+
 import sys
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QMessageBox, QListWidget, QInputDialog
